@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 占俊飞
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Junfei Zhan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Junfei
+last_name: Zhan
 
 # Status emoji
 status:
