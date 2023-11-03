@@ -32,7 +32,7 @@ bio: My research interests include  Internet of Things(IOT), resource managenent
 social:
   - icon: send
     icon_pack: wc
-    link: 'mailto:your-email@example.com'
+    link: '2251856597@qq.com'
   - icon: twitter
     icon_pack: wc
     link: https://twitter.com/wowchemy
@@ -54,8 +54,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Junfei Zhan is currently a fourth-year student studying applied mathematics in a dual program offered by the University of Birmingham and Jinan University. His primary academic interest lies in resource management within the field of IoT, with a particular focus on edge computing and serverless computing. Additionally, Junfei is passionate about participating in Kaggle competitions and welcomes individuals to join his team for collaborative Kaggle competition endeavors.
 {style="text-align: justify; font-size: 0.8em;"}
