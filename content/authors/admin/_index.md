@@ -39,7 +39,7 @@ social:
     label: Follow me on Twitter
   - icon: github
     icon_pack: wc
-    link: https://github.com/gcushen
+    link: https://github.com/plane-monster
   - icon: linkedin
     icon_pack: wc
     link: https://www.linkedin.com/
