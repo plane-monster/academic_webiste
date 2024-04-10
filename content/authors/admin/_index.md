@@ -25,7 +25,7 @@ organizations:
     url: https://birmingham.jnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include  Internet of Things(IOT), resource managenent and serverless computing.
+bio: My research interests include  Internet of Things(IOT),edge computing, resource managenent and serverless computing.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,5 +54,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Junfei Zhan is currently a fourth-year student studying applied mathematics in a dual program offered by the University of Birmingham and Jinan University. His primary academic interest lies in resource management within the field of IoT, with a particular focus on edge computing and serverless computing. Additionally, Junfei is passionate about participating in Kaggle competitions and welcomes individuals to join his team for collaborative Kaggle competition endeavors.
+
+I am currently a fourth-year student pursuing applied mathematics in a dual program offered by the University of Birmingham and Jinan University. My primary academic interest is in resource management within the field of IoT, especially focusing on edge computing and serverless computing. Besides, I am passionate about participating in Kaggle competitions and warmly welcome individuals to join my team for collaborative endeavors in Kaggle competitions. Additionally, I am thrilled to share that I will be advancing my education at the University of Pennsylvania in September 2024, where I will be pursuing a Master's degree in Systems Engineering.
 {style="text-align: justify; font-size: 0.8em;"}
