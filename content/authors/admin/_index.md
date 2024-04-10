@@ -46,7 +46,7 @@ social:
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: cv
     icon_pack: wc
-    link: uploads/resume1.pdf
+    link: uploads/resume.pdf
   - icon: rss
     icon_pack: wc
     link: ./post/index.xml
