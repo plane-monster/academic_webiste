@@ -1,7 +1,7 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: Task Offloading and Approximation Computing in Solar Powered IoT Networks
+summary: This research considers approximate computing and task offloading in a solar powered Internet of Things (IoT) network. Specifically, it addresses the novel problem of minimizing the energy consumption of IoT devices by either offloading their tasks or executing these tasks in approximate mode.
+date: 2023-11
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
