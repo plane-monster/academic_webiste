@@ -25,31 +25,26 @@ organizations:
     url: https://birmingham.jnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include  Internet of Things(IOT),edge computing, resource managenent and serverless computing.
+bio: My research interests include  Internet of Things(IoT),edge computing, resource managenent, serverless computing, game theory and Large Language Model(LLM).
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 social:
   - icon: send
     icon_pack: wc
-    link: '2251856597@qq.com'
-  - icon: twitter
+    link: 'junfeizhan@outlook.com'
+  - icon: instagram
     icon_pack: wc
-    link: https://twitter.com/wowchemy
+    link: https://www.instagram.com/junfei_7/
     label: Follow me on Twitter
   - icon: github
     icon_pack: wc
     link: https://github.com/plane-monster
-  - icon: linkedin
-    icon_pack: wc
-    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: cv
     icon_pack: wc
     link: uploads/resume.pdf
-  - icon: rss
-    icon_pack: wc
-    link: ./post/index.xml
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
